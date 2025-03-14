@@ -94,6 +94,9 @@ section {
     /* Garante que o conteúdo fica acima das imagens do background */
 }
 
+p{
+    text-align: center;
+}
 
 h2 {
     font-family: 'Lemon', serif;
