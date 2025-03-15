@@ -1,6 +1,6 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre Charlie Brawn Junior
 # Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+sua vida músical e como foi sua carreira.
 ## Recursos de acessibilidade
 - Atributos aria
 - alt
